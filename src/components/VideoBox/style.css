@@ -1,0 +1,11 @@
+#videoBox{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: center;
+}
+
+#videoControl{
+    display: flex;
+    justify-content: space-around;
+}
